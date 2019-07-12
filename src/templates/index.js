@@ -17,7 +17,7 @@ const IndexPage = ({ data, pathContext }) => {
 
       <div className="home-template">
 
-        <Header image='http://mcvideo.imgvip.keeng.net:8088/phimonbox/images/20180601/1478854.jpg' title="5 giây Thông Minh" tagline="Cuộc sống người có IQ cao.." />
+        <Header image='https://www.elleman.vn/wp-content/uploads/2018/11/16/nguyen-nhan-hoi-chan-elle-man.png' title="5 giây Thông Minh" tagline="Cuộc sống người có IQ cao.." />
       
         <main id="site-main" className="site-main outer" role="main">
 
