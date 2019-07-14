@@ -2,11 +2,11 @@
 templateKey: blog-post
 path: /giam-beo-mat
 title: Tạm biệt gương mặt tròn vo với 9 bài tập giảm béo
-image: http://afamilycdn.com/2018/photo-19-1516588202285.jpg
+image: https://i.ytimg.com/vi/VBcIaJqEpEE/maxresdefault.jpg
 tags: ["lam dep"]
 uev: 4.18.3
-date: 2019-06-19T12:00:00.226Z
-description: Tuy nhiên, không phải ai cũng có thể dễ dàng loại bỏ mỡ mặt bằng cách tập thể dục. Nhiều người cho biết dù có có tập thể dục nhiều thế nào, họ vẫn không thể giảm béo mặt được, đặc biệt là đám mỡ thừa đáng ghét trên má làm khuôn mặt trở nên phúng phính, tròn trịa.
+date: 2019-07-14T12:00:00.226Z
+description: Tuy nhiên, không phải ai cũng có thể dễ dàng loại bỏ mỡ mặt bằng cách tập thể dục.
 ---
 
 Tuy nhiên, không phải ai cũng có thể dễ dàng loại bỏ mỡ mặt bằng cách tập thể dục. Nhiều người cho biết dù có có tập thể dục nhiều thế nào, họ vẫn không thể giảm béo mặt được, đặc biệt là đám mỡ thừa đáng ghét trên má làm khuôn mặt trở nên phúng phính, tròn trịa.
